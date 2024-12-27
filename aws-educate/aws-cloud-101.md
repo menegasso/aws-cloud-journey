@@ -73,5 +73,27 @@ São os 5 pilares da aws:
 
 ## Módulo IV - Principais Serviços da AWS (Core services)
 
-## Amazon Virtual Private Cloud
+## Amazon Virtual Private Cloud (VPC)
+O Amazon Virtual Private Cloud (Amazon VPC) é um serviço que permite executar recursos da AWS em uma rede virtual isolada logicamente definida por você.
 
+### O Amazon Elastic Compute Cloud (Amazon EC2) 
+É um serviço da Web que disponibiliza capacidade computacional segura e redimensionável na nuvem. Ele foi projetado para facilitar a computação em nuvem na escala da Web para os desenvolvedores.
+
+### O Amazon CloudWatch 
+É um serviço de monitoramento e observação criado para engenheiros de DevOps, desenvolvedores, engenheiros de segurança de sites e gerentes de TI. O CloudWatch fornece dados e
+insights factíveis para monitorar suas aplicações.
+
+### Amazon Simple Notification Service (Amazon SNS) 
+É um serviço da Web que facilita a configuração, a operação e o envio de notificações usando a nuvem. Ele fornece aos desenvolvedores um recurso altamente escalável, flexível e econômico para publicar mensagens de uma aplicação e imediatamente entregá-las aos assinantes. Esses assinantes podem ser destinatários de notificação ou outras aplicações.
+
+### Identity and Access Management (IAM)
+É um sistema de gerenciamento de segurança centralizado incluído em todas as contas da AWS para controlar o acesso de identidade aos produtos da AWS. Ao anexar políticas de permissão do IAM a identidades, você pode gerenciar quais serviços cada identidade pode acessar e o tipo de ação que a identidade pode executar.
+
+### Amazon Simple Storage Service (S3)
+É um armazenamento de objetos projetado para armazenar e recuperar qualquer quantidade de dados de qualquer lugar e a qualquer momento. É um serviço de armazenamento simples que oferece escalabilidade praticamente ilimitada, durabilidade, disponibilidade, performance e segurança líderes do setor por um custo muito baixo.
+
+### AWS Lambda 
+É um serviço computacional sem servidor que você pode usar para executar código de role sem provisionar nem gerenciar servidores. Você pode usar o Lambda para executar código de role para praticamente qualquer tipo de aplicação ou serviço de backend. Faça upload de seu código que o Lambda se encarrega de todos os itens necessários para executar e dimensionar seu código para alta disponibilidade.
+
+### Amazon DynamoDB 
+É um banco de dados nao relacional sem servidor que pode armazenar e recuperar qualquer quantidade de dados e atender a qualquer nível de tráfego de solicitações. Você pode expandir verticalmente ou horizontalmente a capacidade de taxa de transferência das tabelas de banco de dados sem tempo de inatividade. Você pode usar o Console de Gerenciamento da AWS para monitorar a utilização de recursos e as métricas de performance.
